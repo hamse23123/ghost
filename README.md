@@ -1,2 +1,2 @@
-# ghost
-Building websites
+Hamse
+IT student Learning full-stack development
